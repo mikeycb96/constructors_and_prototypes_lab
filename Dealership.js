@@ -1,5 +1,3 @@
-const Car = require("./Car");
-
 const Dealership = function(name, maxCars) {
     this.name = name;
     this.maxCars = maxCars;
